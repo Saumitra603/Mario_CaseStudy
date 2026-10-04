@@ -1,4 +1,4 @@
-name: Build
+name: "Run SAST scan on SuperMario Game Project"
 
 on:
   push:
